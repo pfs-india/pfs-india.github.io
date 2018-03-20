@@ -1,0 +1,61 @@
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- SEO -->
+  <meta name="description" content="{{ site.description }}">
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}">
+  {% else %}
+  <meta name="keywords" content="iit-jee, tutorials, best tutions, best coaching, coaching, sinhgad road, pune coaching classes, pune classes, pune coaching, pune iit-jee, pune neet, neet, shree shrestha tutorials, shree shrestha pune, sst, Shree Shrestha Tutorials , Reviews, Contact number, Phone number, Address, Map, Shree Shrestha Tutorials Pune, Ratings, Directions, Official website link, Working hours, Services">
+  {% endif %}
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }}
+    {% else %}
+      {{ page.title }} | {{ site.title }}
+    {% endif %}
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ "public/css/bootstrap.min.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "public/css/custom.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "public/css/animate.css" | relative_url }}">
+  <!-- <link rel="stylesheet" href="{{ "public/css/flickity.min.css" | relative_url }}" media="screen"> -->
+  <!-- <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Icons -->
+  <!-- <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144-precomposed.png"> -->
+  <!-- <link rel="shortcut icon" href="{{ "public/images/shree.png" | relative_url }}"> -->
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Facebook Cards -->
+  <meta property="og:description" content="{{ site.description }}"/>
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+  {% if page.image %}
+  <meta property="og:image" content="{{ page.image }}"/>
+  {% endif %}
+  <meta property="og:type" content="website"/>
+  <meta property="og:site_name" content="Shree Shrestha Tutorials"/>
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@omkarpathak27">
+  <meta name="twitter:creator" content="Shree Shrestha">
+  <meta name="twitter:title" content= "{{ site.title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:creator" content="Omkar Pathak">
+  {% if page.image %}
+  <meta name="twitter:image:src" content="{{ page.image }}">
+  {% endif %}
+  <meta name="twitter:domain" content="https://www.omkarpathak.in">
+</head>
