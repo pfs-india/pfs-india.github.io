@@ -22,21 +22,21 @@ permalink: /about/
              </p>
         </div> <!-- ./col -->
         <div class="col-sm-6">
-            <img src="{{ "public/images/header_three.jpg" | relative_url }}" alt="" class="img-fluid">
+            <img src="{{ "public/images/header.jpg" | relative_url }}" alt="" class="img-fluid">
         </div> <!-- ./col -->
     </div> <!-- ./row -->
 </div> <!-- ./container -->
 
 <div class="section" style="background-color: lightgray;">
     <div class="container">
-        <div class="row section">
+        <div class="row">
             <div class="col-sm-6">
                 <div class="section-title">
                   <h1 class="animated zoomIn">Our History</h1>
                   <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
                 </div> <!-- ./col -->
                 <p class="text-justify animated animated-bounceInLeft" style="padding-top: 2%">
-                    The Perfect financial Solution was established in 2009. Since then the company provide good solutions to financial related queries.  It has helped many clients for purchasing houses, refinancing an outstanding loan, or consolidating debt, business loan etc.
+                    The Perfect financial Solution was established in the year 2009. Since then the company provide good solutions to financial related queries.  It has helped many clients for purchasing houses, refinancing an outstanding loan, or consolidating debt, business loan etc.
                  </p>
             </div> <!-- ./col -->
             <div class="col-sm-6">
@@ -49,7 +49,64 @@ permalink: /about/
                  </p>
             </div> <!-- ./col -->
         </div> <!-- ./row -->
-    </div>
-</div>
+    </div> <!-- ./container -->
+</div> <!-- ./section -->
 
-<p style="text-align: center"> <strong>Your wish and then its our responsibility to make it come true </strong></p>
+<div class="section">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-sm-12">
+                <div class="section-title">
+                  <h1 class="animated zoomIn">Our Dedicated Staff</h1>
+                  <hr style="width: 50px; height: 1px; background-color: #7378df;">
+                </div>
+            </div> <!-- ./col -->
+        </div> <!-- ./row -->
+
+        <div class="row text-center section">
+            <div class="col-sm-3 slideanim">
+                <div class="card">
+                  <img class="card-img-top" src="{{ "public/images/header_three.jpg" | relative_url }}" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <!-- <p class="card-text">Name Surname</p> -->
+                    <a href="#" class="btn btn-primary">Links</a>
+                  </div>
+                </div>
+            </div> <!-- ./col -->
+
+            <div class="col-sm-3 slideanim">
+                <div class="card">
+                  <img class="card-img-top" src="{{ "public/images/header_three.jpg" | relative_url }}" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <!-- <p class="card-text">Name Surname</p> -->
+                    <a href="#" class="btn btn-primary">Links</a>
+                  </div>
+                </div>
+            </div> <!-- ./col -->
+
+            <div class="col-sm-3 slideanim">
+                <div class="card">
+                  <img class="card-img-top" src="{{ "public/images/header_three.jpg" | relative_url }}" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <!-- <p class="card-text">Name Surname</p> -->
+                    <a href="#" class="btn btn-primary">Links</a>
+                  </div>
+                </div>
+            </div> <!-- ./col -->
+
+            <div class="col-sm-3 slideanim">
+                <div class="card">
+                  <img class="card-img-top" src="{{ "public/images/header_three.jpg" | relative_url }}" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <!-- <p class="card-text">Name Surname</p> -->
+                    <a href="#" class="btn btn-primary">Links</a>
+                  </div>
+                </div>
+            </div> <!-- ./col -->
+        </div> <!-- ./row -->
+    </div> <!-- ./container -->
+</div> <!-- ./section -->

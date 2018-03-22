@@ -13,6 +13,15 @@ a:hover{
     font-size: 350%;
 }
 
+#white-font a{
+	color: white;
+}
+
+#white-font a:hover{
+	color: gray;
+	text-decoration: underline;
+}
+
 .times-medium {
     font-family: "Times New Roman", Times, serif;
     font-weight: 900;
@@ -92,4 +101,40 @@ a:hover{
   transform: translateY(-40%);
   bottom: 0;
   top: 50%;
+}
+
+/*Custom animations*/
+.slideanim {visibility:hidden;}
+
+.slide {
+    /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide;
+    /* The duration of the animation */
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible;
+}
+
+/* Go from 0% to 100% opacity (see-through) and specify the percentage from when to slide in the element along the Y-axis */
+@keyframes slide {
+    0% {
+        opacity: 0;
+        transform: translateY(70%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0%);
+    }
+}
+@-webkit-keyframes slide {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    }
 }

@@ -72,7 +72,7 @@ title: Home
   <div class="container">
     <div class="row">
       <div class="col text-center section-title">
-        <h1 class="animated animated-bounceInLeft">Some other title</h1>
+        <h1 class="animated animated-zoomIn">Our Partner Banks</h1>
         <hr style="width: 50px; height: 1px; background-color: white;">
       </div> <!-- ./col -->
     </div> <!-- ./row -->
@@ -83,7 +83,7 @@ title: Home
   <div class="container">
     <div class="row">
       <div class="col text-center section-title">
-        <h1 class="animated animated-bounceInDown">Some other title</h1>
+        <h1 class="animated animated-zoomIn">Some other title</h1>
         <hr style="width: 50px; height: 1px; background-color: white;">
       </div> <!-- ./col -->
     </div> <!-- ./row -->
