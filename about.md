@@ -3,9 +3,9 @@ layout: default
 title: About
 permalink: /about/
 ---
-<div class="jumbotron jumbotron-fluid" style="background-color: #32323f;">
+<div id="bg-jumbotron" class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h1 class="times animated zoomIn" style="color: white">About Us</h1>
+    <h1 class="times animated zoomIn" id="bg-jumbotron-text">About Us</h1>
     <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
   </div>
 </div>
