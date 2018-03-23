@@ -40,3 +40,8 @@ permalink:        pretty
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+defaults:
+  - scope:
+      path: "public/images/banks"
+    values:
+      image: true

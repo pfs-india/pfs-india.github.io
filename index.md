@@ -76,6 +76,14 @@ title: Home
         <hr style="width: 50px; height: 1px; background-color: white;">
       </div> <!-- ./col -->
     </div> <!-- ./row -->
+    {% assign image_files = site.static_files | where: "image", true %}
+    <div class="row">
+      {% for image in image_files %}
+        <div class="col-sm-2" style="padding:10px">
+          <img class="img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        </div>
+      {% endfor %}
+    </div>
   </div> <!-- ./container -->
 </div>
 
