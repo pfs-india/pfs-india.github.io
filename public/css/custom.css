@@ -148,7 +148,7 @@ a:hover{
 
 /*Jumbotron styles*/
 #bg-jumbotron{
-	background-image:  linear-gradient(rgba(16,16,16,0.8), rgba(16,16,16,0.8)), url(/public/images/background.jpg);
+	background-image:  linear-gradient(rgba(16,16,16,0.8), rgba(16,16,16,0.8)), url(/public/images/background-about.jpg);
 	/*background-size:cover;*/
 	background-position:top;
 	background-color: white;
