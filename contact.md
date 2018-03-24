@@ -74,10 +74,10 @@ permalink: /contact/
     </div> <!-- ./row -->
 
     <div class="row">
-      <div class="col-sm-6">
+      <div class="col-sm-6 animated animated-bounceInLeft">
         Office No. 302, Pinnacle Pride, Near Durvankur Hotel, <br> Sadashiv Peth, Tilak Road, Pune-30.
       </div>
-      <div class="col-sm-6">
+      <div class="col-sm-6 animated animated-bounceInLeft">
         Office No. 302, Pinnacle Pride, Near Durvankur Hotel, <br> Sadashiv Peth, Tilak Road, Pune-30.
       </div>
     </div> <!-- ./row -->
