@@ -30,15 +30,17 @@ title: Home
     <div class="carousel-item  embed-responsive-item">
       <img src="{{ "public/images/header_two.jpg" | relative_url }}" alt="">
       <div class="carousel-caption h-50 align-items-center justify-content-center">
-        <h1 class="times animated zoomIn">Home Loans | Blah | Blah</h1><br>
+        <h1 class="times animated zoomIn">Quick, Easy and Transparent Services</h1>
+        <hr style="width: 50px; height: 1px; background-color: white;">
         <h2 class="times">Easy Loans</h2>
       </div>
     </div>
     <div class="carousel-item  embed-responsive-item">
       <img src="{{ "public/images/header_three.jpg" | relative_url }}" alt="">
       <div class="carousel-caption h-50 align-items-center justify-content-center">
-        <h1 class="times animated zoomIn">Perfect Financial Solutions</h1><br>
-        <h2 class="times">Easy Loans</h2>
+        <h1 class="times animated zoomIn">Get Best Deals</h1>
+        <hr style="width: 50px; height: 1px; background-color: white;">
+        <h2 class="times">Best Prices</h2>
       </div>
     </div>
   </div>
