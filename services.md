@@ -13,7 +13,7 @@ permalink: /services/
 
 <div class="section">
     <div class="container">
-       <div class="row">
+       <div class="row animated zoomIn">
            <div class="col-sm-6">
                <h3>Insurance Services</h3>
                <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
@@ -41,7 +41,7 @@ permalink: /services/
 
 <div class="section-dark">
     <div class="container">
-        <div class="row">
+        <div class="row animated animated-zoomIn">
             <div class="col-sm-6">
                 <h3>Banking Services</h3>
                 <hr style="width: 50px; height: 1px; background-color: orange;" align="left">
@@ -69,7 +69,7 @@ permalink: /services/
 
 <div class="section">
     <div class="container">
-        <div class="row">
+        <div class="row animated animated-zoomIn">
             <div class="col-sm-6">
                 <h3>Income Tax Services</h3>
                 <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
@@ -99,7 +99,7 @@ permalink: /services/
 
 <div class="section-dark">
     <div class="container">
-        <div class="row">
+        <div class="row animated animated-zoomIn">
             <div class="col-sm-6">
                 <h3>Printing Services</h3>
                 <hr style="width: 50px; height: 1px; background-color: orange;" align="left">
