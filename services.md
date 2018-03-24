@@ -116,7 +116,7 @@ permalink: /services/
                   <li class="list-group-item">Passport</li>
                   <li class="list-group-item">PAN Card, Aadhar Card, Rashan Card</li>
                   <li class="list-group-item">Driving License</li>
-                  <li class="list-group-item">Service Tax number, ITR</li>
+                  <li class="list-group-item">Income Tax Returns</li>
                 </ul>
                 <!-- <a href="#">Continue reading</a> -->
               </div>
@@ -141,32 +141,48 @@ permalink: /services/
                </ul>
                <!-- <a href="#">Continue reading</a> -->
              </div>
-             <img class="card-img-right flex-auto d-none d-md-block services-img" src="{{ "public/images/services4.png" | relative_url }}" alt="Card image cap">
+             <img class="card-img-right flex-auto d-none d-md-block services-img" src="{{ "public/images/services6.png" | relative_url }}" alt="Card image cap">
            </div>
        </div>
    </div> <!-- ./row -->
 </div> <!-- ./container -->
 
-<div class="section-dark">
-    <div class="container">
-        <div class="row animated animated-zoomIn">
-            <div class="col-sm-6">
-                <h3>Printing Services</h3>
-                <hr style="width: 50px; height: 1px; background-color: orange;" align="left">
+<div class="container">
+   <div class="row animated zoomIn">
+       <div class="col-sm-6">
+            <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
+              <div class="card-body d-flex flex-column align-items-start">
+                <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
+                <h3 class="mb-0">
+                    Printing Services
+                </h3>
+                <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
                 <ul class="list-group" style="color: black">
                   <li class="list-group-item">DTP and Flex Printing</li>
                   <li class="list-group-item">Bills, letter heads, broucher printing</li>
                   <li class="list-group-item">Website and Logo designing</li>
                 </ul>
+                <!-- <a href="#">Continue reading</a> -->
+              </div>
+              <img class="card-img-right flex-auto d-none d-md-block services-img" src="{{ "public/images/services5.jpg" | relative_url }}" alt="Card image cap">
             </div>
+       </div>
 
-            <div class="col-sm-6">
-                <h3>Travelling Services</h3>
-                <hr style="width: 50px; height: 1px; background-color: orange;" align="left">
-                <ul class="list-group" style="color: black">
+       <div class="col-sm-6">
+           <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
+             <div class="card-body d-flex flex-column align-items-start">
+               <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
+               <h3 class="mb-0">
+                   Travelling Services
+               </h3>
+               <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
+               <ul class="list-group" style="color: black">
                   <li class="list-group-item">All types of vehicles on rent</li>
                 </ul>
-            </div>
-        </div> <!-- ./row -->
-    </div>
-</div>
+               <!-- <a href="#">Continue reading</a> -->
+             </div>
+             <img class="card-img-right flex-auto d-none d-md-block services-img" src="{{ "public/images/services6.png" | relative_url }}" alt="Card image cap">
+           </div>
+       </div>
+   </div> <!-- ./row -->
+</div> <!-- ./container -->

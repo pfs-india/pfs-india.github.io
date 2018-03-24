@@ -11,7 +11,7 @@ permalink: /contact/
   </div>
 </div>
 
-<div class="section">
+<div class="section" style="padding-bottom: 0">
   <div class="container">
     <div class="row">
       <div class="col-sm-6">
@@ -42,17 +42,19 @@ permalink: /contact/
 
         </form>
       </div><!-- ./col -->
-      <div class="col-sm-6">
+      <div class="col-sm-6" style="background-color: #fafafa; margin-bottom: 10%">
         <div class="section-title">
           <h1 class="animated zoomIn">Address</h1>
           <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
         </div>
         <h5><strong>Registered Office:</strong></h5>
         <p>
-          Office No. 302, Pinnacle Pride, Near Durvankur Hotel, <br> Sadashiv Peth, Tilak Road, Pune-30.
+          <i class="fa fa-address-book" aria-hidden="true" style="font-size: 30px;  padding-right: 10px"> </i> Office No. 302, Pinnacle Pride, Near Durvankur Hotel, <br> Sadashiv Peth, Tilak Road, Pune-30.
         </p>
-        <p><i class="fa fa-phone" aria-hidden="true"></i> +91-8484004007</p>
-        <p><i class="fa fa-envelope" aria-hidden="true"></i> perfect.fin.solution@gmail.com</p>
+        <hr style="margin-top: 10%; margin-bottom: 10%;">
+        <p><i class="fa fa-phone" aria-hidden="true" style="font-size: 30px; padding-right: 10px"></i> +91-8484004007</p>
+        <hr style="margin-top: 10%; margin-bottom: 10%;">
+        <p><i class="fa fa-envelope" aria-hidden="true" style="font-size: 30px; padding-right: 10px"></i> perfect.fin.solution@gmail.com</p>
       </div> <!-- ./col-sm-6 -->
     </div> <!-- ./row -->
   </div> <!-- ./container -->
