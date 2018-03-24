@@ -10,7 +10,7 @@ permalink: /about/
   </div>
 </div>
 
-<div class="container" style="margin-bottom: 3%">
+<div id="about" class="container" style="margin-bottom: 3%">
     <div class="row">
         <div class="col-sm-6">
             <div class="section-title">

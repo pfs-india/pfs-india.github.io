@@ -60,10 +60,127 @@ title: Home
         <hr style="width: 50px; height: 1px; background-color: #7378df">
       </div> <!-- ./col -->
     </div> <!-- ./row -->
-    <div class="row">
-      <div class="col-4">
-
+    <div class="row" style="margin-top: 2%">
+      <div class="col-md-4">
+        <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
+          <div class="card-body d-flex flex-column align-items-start">
+            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
+            <h3 class="mb-0">
+              <a class="text-dark" href="#">Home Loans</a>
+            </h3>
+            <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
+            <p class="card-text text-muted mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+            <!-- <a href="#">Continue reading</a> -->
+          </div>
+          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
+        </div>
       </div>
+
+      <div class="col-md-4">
+        <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
+          <div class="card-body d-flex flex-column align-items-start">
+            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
+            <h3 class="mb-0">
+              <a class="text-dark" href="#">Property Loans</a>
+            </h3>
+            <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
+            <p class="card-text text-muted mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+            <!-- <a href="#">Continue reading</a> -->
+          </div>
+          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
+          <div class="card-body d-flex flex-column align-items-start">
+            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
+            <h3 class="mb-0">
+              <a class="text-dark" href="#">Banking Services</a>
+            </h3>
+            <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
+            <p class="card-text text-muted mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+            <!-- <a href="#">Continue reading</a> -->
+          </div>
+          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
+          <div class="card-body d-flex flex-column align-items-start">
+            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
+            <h3 class="mb-0">
+              <a class="text-dark" href="#">E-Banking Services</a>
+            </h3>
+            <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
+            <p class="card-text text-muted mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+            <!-- <a href="#">Continue reading</a> -->
+          </div>
+          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
+          <div class="card-body d-flex flex-column align-items-start">
+            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
+            <h3 class="mb-0">
+              <a class="text-dark" href="#">Travelling Services</a>
+            </h3>
+            <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
+            <p class="card-text text-muted mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+            <!-- <a href="#">Continue reading</a> -->
+          </div>
+          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
+          <div class="card-body d-flex flex-column align-items-start">
+            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
+            <h3 class="mb-0">
+              <a class="text-dark" href="#">Printing Services</a>
+            </h3>
+            <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
+            <p class="card-text text-muted mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+            <!-- <a href="#">Continue reading</a> -->
+          </div>
+          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
+          <div class="card-body d-flex flex-column align-items-start">
+            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
+            <h3 class="mb-0">
+              <a class="text-dark" href="#">Income Tax Services</a>
+            </h3>
+            <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
+            <p class="card-text text-muted mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+            <!-- <a href="#">Continue reading</a> -->
+          </div>
+          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
+          <div class="card-body d-flex flex-column align-items-start">
+            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
+            <h3 class="mb-0">
+              <a class="text-dark" href="#">Insurance Services</a>
+            </h3>
+            <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
+            <p class="card-text text-muted mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+            <!-- <a href="#">Continue reading</a> -->
+          </div>
+          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
+        </div>
+      </div>
+
     </div>
   </div> <!-- ./container -->
 </div>
@@ -73,7 +190,7 @@ title: Home
     <div class="row">
       <div class="col text-center section-title">
         <h1 class="animated animated-zoomIn">Our Partner Banks</h1>
-        <hr style="width: 50px; height: 1px; background-color: white;">
+        <hr style="width: 50px; height: 1px; background-color: orange;">
       </div> <!-- ./col -->
     </div> <!-- ./row -->
     {% assign image_files = site.static_files | where: "image", true %}
