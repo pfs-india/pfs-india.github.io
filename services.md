@@ -164,7 +164,7 @@ permalink: /services/
                 </ul>
                 <!-- <a href="#">Continue reading</a> -->
               </div>
-              <img class="card-img-right flex-auto d-none d-md-block services-img" src="{{ "public/images/services5.jpg" | relative_url }}" alt="Card image cap">
+              <img class="card-img-right flex-auto d-none d-md-block services-img" src="{{ "public/images/services7.jpg" | relative_url }}" alt="Card image cap" style="padding-top: 17%; height: 60%;">
             </div>
        </div>
 
@@ -181,7 +181,7 @@ permalink: /services/
                 </ul>
                <!-- <a href="#">Continue reading</a> -->
              </div>
-             <img class="card-img-right flex-auto d-none d-md-block services-img" src="{{ "public/images/services6.png" | relative_url }}" alt="Card image cap">
+             <img class="card-img-right flex-auto d-none d-md-block services-img" src="{{ "public/images/services8.jpg" | relative_url }}" alt="Card image cap" style="padding-top: 17%; height: 60%;">
            </div>
        </div>
    </div> <!-- ./row -->
