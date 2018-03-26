@@ -19,28 +19,41 @@ title: Home
       <img src="{{ "public/images/header_one.jpg" | relative_url }}" alt="">
       <div class="carousel-caption h-80">
         <div class="row">
-          <div class="col">
+          <div class="col" id="bg-gray">
             <p class="times text-center animated zoomIn">Perfect Financial Solutions</p>
             <hr style="width: 50px; height: 1px; background-color: white;">
             <p class="times-small text-center animated zoomIn">Finding way to funding home...</p>
+          </div>
+
+          <div class="col">
           </div>
         </div>
       </div>
     </div>
     <div class="carousel-item  embed-responsive-item">
       <img src="{{ "public/images/header_two.jpg" | relative_url }}" alt="">
-      <div class="carousel-caption h-50 align-items-center justify-content-center">
-        <h1 class="times animated zoomIn">Quick, Easy and Transparent Services</h1>
-        <hr style="width: 50px; height: 1px; background-color: white;">
-        <h2 class="times">Easy Loans</h2>
+      <div class="carousel-caption h-70 align-items-center justify-content-center">
+        <div class="row">
+          <div class="col text-justify" id="bg-gray">
+            <h1 class="times animated zoomIn" style="font-size: 50px">Quick, Easy <br> & Transparent</h1>
+            <hr style="width: 50px; height: 1px; background-color: white;" align="left">
+            <h2 style="font-size: 25px; font-family: 'Times New Roman', Times, serif">We offer hassle free home loans with easy documentation, quick disbursal and full transparency</h2>
+          </div>
+          <div class="col"></div>
+        </div>
       </div>
     </div>
     <div class="carousel-item  embed-responsive-item">
       <img src="{{ "public/images/header_three.jpg" | relative_url }}" alt="">
       <div class="carousel-caption h-50 align-items-center justify-content-center">
-        <h1 class="times animated zoomIn">Get Best Deals</h1>
-        <hr style="width: 50px; height: 1px; background-color: white;">
-        <h2 class="times">Best Prices</h2>
+        <div class="row">
+          <div class="col text-justify" id="bg-gray">
+            <h1 class="times animated zoomIn" style="font-size: 45px">Save upto Rs. 2.67 Lacs on your First Home!</h1>
+            <hr style="width: 50px; height: 1px; background-color: white;">
+            <h2 style="font-size: 25px; font-family: 'Times New Roman', Times, serif">Avail subsidy benefits under Pradhan Mantri Awas Yojana</h2>
+          </div>
+          <div class="col"></div>
+        </div>
       </div>
     </div>
   </div>
@@ -52,6 +65,16 @@ title: Home
   <a class="carousel-control-next" href="#demo" data-slide="next">
     <span class="carousel-control-next-icon"></span>
   </a>
+</div>
+
+<div class="container-fluid text-center" style="background-color: #7378df; color: white;">
+  <div class="row" style="padding: 10px;">
+    <div class="col"><strong>X</strong> <br> Locations across <br> x states</div>
+    <div class="col"><strong>X</strong> <br> Loan Book <br> till date</div>
+    <div class="col"><strong>X</strong> <br> Average Ticket <br> size</div>
+    <div class="col"><strong>X</strong> <br> Customers  Served</div>
+    <div class="col"><strong>X</strong> <br> Housing Loan <br>Assistance</div>
+  </div>
 </div>
 
 <div class="section">
@@ -211,13 +234,30 @@ title: Home
         <hr style="width: 50px; height: 1px; background-color: orange;">
       </div> <!-- ./col -->
     </div> <!-- ./row -->
-    {% assign image_files = site.static_files | where: "image", true %}
-    <div class="row equal">
-      {% for image in image_files %}
-        <div class="col-sm-2" style="padding:10px">
-          <img style="height: 10%;" class="img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+
+    <!-- Nav tabs -->
+    <ul class="nav nav-tabs nav-justified">
+      <li class="nav-item">
+        <a class="nav-link active" data-toggle="tab" href="#banking">Banking Partners</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#finance">Finance Partners</a>
+      </li>
+    </ul>
+
+    <!-- Tab panes -->
+    <div class="tab-content">
+      <div class="tab-pane active container" id="banking">
+        {% assign image_files = site.static_files | where: "image", true %}
+        <div class="row equal">
+          {% for image in image_files %}
+            <div class="col-sm-2" style="padding:10px">
+              <img style="height: 10%;" class="img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+            </div>
+          {% endfor %}
         </div>
-      {% endfor %}
+      </div>
+      <div class="tab-pane container" id="finance">...</div>
     </div>
   </div> <!-- ./container -->
 </div>
@@ -226,8 +266,19 @@ title: Home
   <div class="container">
     <div class="row">
       <div class="col text-center section-title">
-        <h1 class="animated animated-zoomIn">Some other title</h1>
-        <hr style="width: 50px; height: 1px; background-color: white;">
+        <h1 class="animated animated-zoomIn">Processes</h1>
+        <hr style="width: 50px; height: 1px; background-color: #7378df;">
+      </div> <!-- ./col -->
+    </div> <!-- ./row -->
+
+    <div class="row">
+      <div class="col text-center">
+        <img src="{{ "public/images/process_image.png" | relative_url }}" class="img-fluid">
+        <h5>Sanction Process Steps</h5>
+      </div> <!-- ./col -->
+      <div class="col text-center">
+        <img src="{{ "public/images/process_image2.png" | relative_url }}" class="img-fluid">
+        <h5>Disbarment Process Steps</h5>
       </div> <!-- ./col -->
     </div> <!-- ./row -->
   </div> <!-- ./container -->
