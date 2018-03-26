@@ -68,12 +68,23 @@ title: Home
 </div>
 
 <div class="container-fluid text-center" style="background-color: #7378df; color: white;">
-  <div class="row" style="padding: 10px;">
-    <div class="col"><strong>X</strong> <br> Locations across <br> x states</div>
-    <div class="col"><strong>X</strong> <br> Loan Book <br> till date</div>
-    <div class="col"><strong>X</strong> <br> Average Ticket <br> size</div>
-    <div class="col"><strong>X</strong> <br> Customers  Served</div>
-    <div class="col"><strong>X</strong> <br> Housing Loan <br>Assistance</div>
+  <div class="row">
+    <div class="col-lg-1 col-md-1"></div>
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
+      <strong>X</strong> <br> Locations across <br> x states
+    </div>
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
+      <strong>X</strong> <br> Loan Book <br> till date
+    </div>
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
+      <strong>X</strong> <br> Average Ticket <br> size
+    </div>
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
+      <strong>X</strong> <br> Customers  Served
+    </div>
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
+      <strong>X</strong> <br> Housing Loan <br>Assistance
+    </div>
   </div>
 </div>
 
@@ -272,11 +283,11 @@ title: Home
     </div> <!-- ./row -->
 
     <div class="row">
-      <div class="col text-center">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
         <img src="{{ "public/images/process_image.png" | relative_url }}" class="img-fluid">
         <h5>Sanction Process Steps</h5>
       </div> <!-- ./col -->
-      <div class="col text-center">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
         <img src="{{ "public/images/process_image2.png" | relative_url }}" class="img-fluid">
         <h5>Disbarment Process Steps</h5>
       </div> <!-- ./col -->
