@@ -100,136 +100,104 @@ title: Home
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
-            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
-            <h3 class="mb-0">
               <a class="text-dark" href="#">Home Loans</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
               We ensure that you get the best Loans in terms of interest rates and other facilities. You can choose from Adjustable, Fixed or Floating Rate Loan.
             </p>
-            <!-- <a href="#">Continue reading</a> -->
           </div>
-          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
         </div>
       </div>
 
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
-            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
-            <h3 class="mb-0">
               <a class="text-dark" href="#">Property Loans</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
               Your property is one of your greatest assets. It also holds the key to make your dreams come true. Get Property loans at the best rate of interest.
             </p>
-            <!-- <a href="#">Continue reading</a> -->
           </div>
-          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
         </div>
       </div>
 
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
-            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
-            <h3 class="mb-0">
               <a class="text-dark" href="#">Banking Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
               We provide various Banking services like account opening, account linking, online money transfer, online bill payments and many more.
             </p>
-            <!-- <a href="#">Continue reading</a> -->
           </div>
-          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
         </div>
       </div>
 
       <div class="col-md-6">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
-            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
-            <h3 class="mb-0">
               <a class="text-dark" href="#">E-Banking Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
               With this service you save your time by carrying out banking transactions at any place and at any time, from your home or office, all you need is internet access.
               </p>
-            <!-- <a href="#">Continue reading</a> -->
           </div>
-          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
         </div>
       </div>
 
       <div class="col-md-6">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
-            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
-            <h3 class="mb-0">
               <a class="text-dark" href="#">Travelling Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
               We offer all services and products related to international and domestic travel. We are equipped to handle all types of travel such as holiday and business travel on individual or group based.
             </p>
-            <!-- <a href="#">Continue reading</a> -->
           </div>
-          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
         </div>
       </div>
 
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
-            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
-            <h3 class="mb-0">
               <a class="text-dark" href="#">Income Tax Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
               We provide all types of Income Tax Services such as generating PAN Card or Aadhar Card, Income Tax Returns and more..
             </p>
-            <!-- <a href="#">Continue reading</a> -->
           </div>
-          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
         </div>
       </div>
 
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
-            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
-            <h3 class="mb-0">
               <a class="text-dark" href="#">Insurance Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
               Get all types of insurances like Health Insurance, Life Insurance, Property Insurance and many more all at one place.
             </p>
-            <!-- <a href="#">Continue reading</a> -->
           </div>
-          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
         </div>
       </div>
 
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
-            <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
-            <h3 class="mb-0">
               <a class="text-dark" href="#">Printing Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
               We provide Flex designing, <br> Website designing, <br> Logo designing, <br> and DTP services as well.
             </p>
-            <!-- <a href="#">Continue reading</a> -->
           </div>
-          <!-- <img class="card-img-right flex-auto d-none d-md-block" src="" alt="Card image cap" class="img-fluid"> -->
         </div>
       </div>
 
@@ -258,12 +226,12 @@ title: Home
 
     <!-- Tab panes -->
     <div class="tab-content">
-      <div class="tab-pane active container" id="banking">
+      <div class="tab-pane active container slideanim" id="banking">
         {% assign image_files = site.static_files | where: "image", true %}
         <div class="row equal">
           {% for image in image_files %}
             <div class="col-sm-2" style="padding:10px">
-              <img style="height: 10%;" class="img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+              <img style="height: 80px;" class="img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
             </div>
           {% endfor %}
         </div>
@@ -283,11 +251,11 @@ title: Home
     </div> <!-- ./row -->
 
     <div class="row">
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center slideanim">
         <img src="{{ "public/images/process_image.png" | relative_url }}" class="img-fluid">
         <h5>Sanction Process Steps</h5>
       </div> <!-- ./col -->
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center slideanim">
         <img src="{{ "public/images/process_image2.png" | relative_url }}" class="img-fluid">
         <h5>Disbarment Process Steps</h5>
       </div> <!-- ./col -->

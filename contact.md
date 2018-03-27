@@ -75,10 +75,10 @@ permalink: /contact/
 
     <div class="row">
       <div class="col-sm-6 animated animated-bounceInLeft">
-        Office No. 302, Pinnacle Pride, Near Durvankur Hotel, <br> Sadashiv Peth, Tilak Road, Pune-30.
+        <strong>Dhayari Branch: </strong>Office no. 2, Shivalay Properties, Raykar Mala, Dhayari, Pune-41.
       </div>
       <div class="col-sm-6 animated animated-bounceInLeft">
-        Office No. 302, Pinnacle Pride, Near Durvankur Hotel, <br> Sadashiv Peth, Tilak Road, Pune-30.
+        <strong>Narhe Branch: </strong>Office no. 4, Samarth Puram, Near NH4 Highway, Bhumkar Nagar, Narhe, Pune-41.
       </div>
     </div> <!-- ./row -->
   </div> <!-- ./container -->
