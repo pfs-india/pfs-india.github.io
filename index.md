@@ -100,6 +100,7 @@ title: Home
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
+            <h3>
               <a class="text-dark" href="#">Home Loans</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
@@ -113,6 +114,7 @@ title: Home
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
+            <h3>
               <a class="text-dark" href="#">Property Loans</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
@@ -126,6 +128,7 @@ title: Home
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
+            <h3>
               <a class="text-dark" href="#">Banking Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
@@ -139,6 +142,7 @@ title: Home
       <div class="col-md-6">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
+            <h3>
               <a class="text-dark" href="#">E-Banking Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
@@ -152,6 +156,7 @@ title: Home
       <div class="col-md-6">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
+            <h3>
               <a class="text-dark" href="#">Travelling Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
@@ -165,6 +170,7 @@ title: Home
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
+            <h3>
               <a class="text-dark" href="#">Income Tax Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
@@ -178,6 +184,7 @@ title: Home
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
+            <h3>
               <a class="text-dark" href="#">Insurance Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
@@ -225,7 +232,7 @@ title: Home
     </ul>
 
     <!-- Tab panes -->
-    <div class="tab-content">
+    <div class="tab-content" style="padding-top: 3%">
       <div class="tab-pane active container slideanim" id="banking">
         {% assign image_files = site.static_files | where: "image", true %}
         <div class="row equal">
