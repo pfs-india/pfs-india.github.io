@@ -239,16 +239,29 @@ title: Home
     <!-- Tab panes -->
     <div class="tab-content" style="padding-top: 3%">
       <div class="tab-pane active container slideanim" id="banking">
-        {% assign image_files = site.static_files | where: "image", true %}
         <div class="row equal">
-          {% for image in image_files %}
-            <div class="col-sm-2" style="padding:10px">
-              <img style="height: 80px;" class="img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-            </div>
+          {% for image in site.static_files %}
+            {% if image.path contains 'public/images/banks/' %}
+              <div class="col-sm-2" style="padding:10px">
+                <img style="height: 80px;" class="img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+              </div>
+            {% endif %}
           {% endfor %}
         </div>
       </div>
-      <div class="tab-pane container" id="finance">...</div>
+
+      <div class="tab-pane container" id="finance">
+        {% assign image_files = site.public.images.finance | where: "image", true %}
+        <div class="row equal">
+          {% for image in site.static_files %}
+            {% if image.path contains 'public/images/finance/' %}
+              <div class="col-sm-2" style="padding:10px">
+                <img style="height: 80px;" class="img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+              </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
     </div>
   </div> <!-- ./container -->
 </div>
