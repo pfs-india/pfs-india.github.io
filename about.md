@@ -64,45 +64,34 @@ permalink: /about/
         </div> <!-- ./row -->
 
         <div class="row text-center section">
-            <div class="col-sm-3 slideanim">
+            <div class="col-sm-4 slideanim">
                 <div class="card">
-                  <img class="card-img-top" src="{{ "public/images/header_three.jpg" | relative_url }}" alt="Card image cap">
+                  <img class="card-img-top" src="{{ "public/images/dharmendra_nivangune.jpeg" | relative_url }}" alt="Card image cap" style="height:65%">
                   <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <!-- <p class="card-text">Name Surname</p> -->
+                    <h5 class="card-title">Dharmendra Nivangune</h5>
+                    <p class="card-text text-muted">Business Head</p>
                     <a href="#" class="btn btn-primary">Links</a>
                   </div>
                 </div>
             </div> <!-- ./col -->
 
-            <div class="col-sm-3 slideanim">
+            <div class="col-sm-4 slideanim">
                 <div class="card">
-                  <img class="card-img-top" src="{{ "public/images/header_three.jpg" | relative_url }}" alt="Card image cap">
+                  <img class="card-img-top" src="{{ "public/images/arjun_nivangune.jpeg" | relative_url }}" alt="Card image cap" style="height:65%">
                   <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <!-- <p class="card-text">Name Surname</p> -->
+                    <h5 class="card-title">Arjun Nivangune</h5>
+                    <p class="card-text text-muted">Business Head</p>
                     <a href="#" class="btn btn-primary">Links</a>
                   </div>
                 </div>
             </div> <!-- ./col -->
 
-            <div class="col-sm-3 slideanim">
+            <div class="col-sm-4 slideanim">
                 <div class="card">
-                  <img class="card-img-top" src="{{ "public/images/header_three.jpg" | relative_url }}" alt="Card image cap">
+                  <img class="card-img-top" src="{{ "public/images/vikas_polekar.jpeg" | relative_url }}" alt="Card image cap" style="height:65%">
                   <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <!-- <p class="card-text">Name Surname</p> -->
-                    <a href="#" class="btn btn-primary">Links</a>
-                  </div>
-                </div>
-            </div> <!-- ./col -->
-
-            <div class="col-sm-3 slideanim">
-                <div class="card">
-                  <img class="card-img-top" src="{{ "public/images/header_three.jpg" | relative_url }}" alt="Card image cap">
-                  <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <!-- <p class="card-text">Name Surname</p> -->
+                    <h5 class="card-title">Vikas Polekar</h5>
+                    <p class="card-text text-muted">Business Head</p>
                     <a href="#" class="btn btn-primary">Links</a>
                   </div>
                 </div>
