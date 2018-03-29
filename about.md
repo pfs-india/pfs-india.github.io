@@ -65,10 +65,10 @@ permalink: /about/
 
         <div class="row text-center section">
             <div class="col-sm-3 slideanim">
-                <div class="card">
-                  <img class="card-img-top" src="{{ "public/images/dharmendra_nivangune.jpeg" | relative_url }}" alt="Card image cap" style="height:45%">
+                <div>
+                  <img class="card-img-top rounded-circle" src="{{ "public/images/dharmendra_nivangune.jpeg" | relative_url }}" alt="Card image cap" style="height:45%">
                   <div class="card-body">
-                    <h5 class="card-title">Dharmendra Nivangune</h5>
+                    <h6 class="card-title">Dharmendra Nivangune</h6>
                     <p class="card-text text-muted">Business Head</p>
                     <a href="#" class="btn btn-primary">Links</a>
                   </div>
@@ -76,10 +76,10 @@ permalink: /about/
             </div> <!-- ./col -->
 
             <div class="col-sm-3 slideanim">
-                <div class="card">
-                  <img class="card-img-top" src="{{ "public/images/arjun_nivangune.jpeg" | relative_url }}" alt="Card image cap" style="height:45%">
+                <div>
+                  <img class="card-img-top rounded-circle" src="{{ "public/images/arjun_nivangune.jpeg" | relative_url }}" alt="Card image cap" style="height:45%">
                   <div class="card-body">
-                    <h5 class="card-title">Arjun Nivangune</h5><br>
+                    <h6 class="card-title">Arjun Nivangune</h6>
                     <p class="card-text text-muted">Business Head</p>
                     <a href="#" class="btn btn-primary">Links</a>
                   </div>
@@ -87,10 +87,10 @@ permalink: /about/
             </div> <!-- ./col -->
 
             <div class="col-sm-3 slideanim">
-                <div class="card">
-                  <img class="card-img-top" src="{{ "public/images/vikas_polekar.jpeg" | relative_url }}" alt="Card image cap" style="height:45%">
+                <div>
+                  <img class="card-img-top rounded-circle" src="{{ "public/images/vikas_polekar.jpeg" | relative_url }}" alt="Card image cap" style="height:45%">
                   <div class="card-body">
-                    <h5 class="card-title">Vikas Polekar</h5><br>
+                    <h6 class="card-title">Vikas Polekar</h6>
                     <p class="card-text text-muted">Business Head</p>
                     <a href="#" class="btn btn-primary">Links</a>
                   </div>
