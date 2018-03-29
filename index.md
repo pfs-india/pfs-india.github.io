@@ -203,6 +203,7 @@ title: Home
       <div class="col-md-4">
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
+            <h3>
               <a class="text-dark" href="#">Printing Services</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
