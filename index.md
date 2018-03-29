@@ -71,19 +71,24 @@ title: Home
   <div class="row">
     <div class="col-lg-1 col-md-1"></div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
-      <strong>X</strong> <br> Locations across <br> x states
+      <i class="fa fa-map-marker" aria-hidden="true" style="color: red"></i><br>
+      <strong>5</strong> <br> Locations Across <br> Pune
     </div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
-      <strong>X</strong> <br> Loan Book <br> till date
+      <i class="fa fa-address-book" aria-hidden="true" style="color: red"></i><br>
+      <strong>₹ 335 Crores</strong> <br> Loan Book <br> Till Date
     </div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
-      <strong>X</strong> <br> Average Ticket <br> size
+      <i class="fa fa-university" aria-hidden="true" style="color: red"></i><br>
+      <strong>₹ 14.77 Lakhs</strong> <br> Average Ticket <br> Size
     </div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
-      <strong>X</strong> <br> Customers  Served
+      <i class="fa fa-user" aria-hidden="true" style="color: red"></i><br>
+      <strong>350+</strong> <br> Customers  Served
     </div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
-      <strong>X</strong> <br> Housing Loan <br>Assistance
+      <i class="fa fa-users" aria-hidden="true" style="color: red"></i><br>
+      <strong>9000+</strong> <br> Housing Loan <br>Assistance
     </div>
   </div>
 </div>

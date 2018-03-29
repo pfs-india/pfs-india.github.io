@@ -96,6 +96,17 @@ permalink: /about/
                   </div>
                 </div>
             </div> <!-- ./col -->
+
+            <div class="col-sm-3 slideanim">
+                <div>
+                  <img class="card-img-top rounded-circle" src="{{ "public/images/ashok_nivangune.jpeg" | relative_url }}" alt="Card image cap" style="height:45%">
+                  <div class="card-body">
+                    <h6 class="card-title">Ashok Nivangune</h6>
+                    <p class="card-text text-muted">Business Head</p>
+                    <a href="#" class="btn btn-primary">Links</a>
+                  </div>
+                </div>
+            </div> <!-- ./col -->
         </div> <!-- ./row -->
     </div> <!-- ./container -->
 </div> <!-- ./section -->
