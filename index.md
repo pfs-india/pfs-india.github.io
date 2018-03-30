@@ -20,7 +20,7 @@ title: Home
       <div class="carousel-caption">
         <div class="row">
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" id="bg-gray">
-            <img class="img-fluid rounded" src="{{ "public/images/logo.png" | relative_url }}" style="height: 140%; width: 80%">
+            <img class="img-fluid rounded" src="{{ "public/images/logo.png" | relative_url }}" style="height: 300px;">
             <!-- <p class="times-small text-center animated zoomIn">Perfect Financial Solutions</p> -->
             <hr style="width: 50px; height: 1px; background-color: white;">
             <!-- <p class="times-small text-center animated zoomIn">Finding way to funding home...</p> -->
