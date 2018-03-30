@@ -17,15 +17,16 @@ title: Home
   <div role="listbox" class="carousel-inner embed-responsive embed-responsive-16by9">
     <div class="carousel-item active embed-responsive-item">
       <img src="{{ "public/images/header_one.jpg" | relative_url }}" alt="">
-      <div class="carousel-caption h-80">
+      <div class="carousel-caption">
         <div class="row">
-          <div class="col" id="bg-gray">
-            <p class="times text-center animated zoomIn">Perfect Financial Solutions</p>
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" id="bg-gray">
+            <img class="img-fluid rounded" src="{{ "public/images/logo.png" | relative_url }}" style="height: 140%; width: 80%">
+            <!-- <p class="times-small text-center animated zoomIn">Perfect Financial Solutions</p> -->
             <hr style="width: 50px; height: 1px; background-color: white;">
-            <p class="times-small text-center animated zoomIn">Finding way to funding home...</p>
+            <!-- <p class="times-small text-center animated zoomIn">Finding way to funding home...</p> -->
           </div>
 
-          <div class="col">
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
           </div>
         </div>
       </div>
@@ -34,12 +35,12 @@ title: Home
       <img src="{{ "public/images/header_two.jpg" | relative_url }}" alt="">
       <div class="carousel-caption h-70 align-items-center justify-content-center">
         <div class="row">
-          <div class="col text-justify" id="bg-gray">
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-justify" id="bg-gray">
             <h1 class="times animated zoomIn" style="font-size: 50px">Quick, Easy <br> & Transparent</h1>
             <hr style="width: 50px; height: 1px; background-color: white;" align="left">
             <h2 style="font-size: 25px; font-family: 'Times New Roman', Times, serif">We offer hassle free home loans with easy documentation, quick disbursal and full transparency</h2>
           </div>
-          <div class="col"></div>
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12"></div>
         </div>
       </div>
     </div>
@@ -47,12 +48,12 @@ title: Home
       <img src="{{ "public/images/header_three.jpg" | relative_url }}" alt="">
       <div class="carousel-caption h-50 align-items-center justify-content-center">
         <div class="row">
-          <div class="col text-justify" id="bg-gray">
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-justify" id="bg-gray">
             <h1 class="times animated zoomIn" style="font-size: 45px">Save upto Rs. 2.67 Lacs on your First Home!</h1>
             <hr style="width: 50px; height: 1px; background-color: white;">
             <h2 style="font-size: 25px; font-family: 'Times New Roman', Times, serif">Avail subsidy benefits under Pradhan Mantri Awas Yojana</h2>
           </div>
-          <div class="col"></div>
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12"></div>
         </div>
       </div>
     </div>
@@ -72,23 +73,23 @@ title: Home
     <div class="col-lg-1 col-md-1"></div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
       <i class="fa fa-map-marker" aria-hidden="true" style="color: red"></i><br>
-      <strong>5</strong> <br> Locations Across <br> Pune
+      <strong style="font-size: 20px">5</strong> <br> Locations Across <br> Pune
     </div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
       <i class="fa fa-address-book" aria-hidden="true" style="color: red"></i><br>
-      <strong>₹ 335 Crores</strong> <br> Loan Book <br> Till Date
+      <strong style="font-size: 20px">₹ 335 Crores</strong> <br> Loan Book <br> Till Date
     </div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
       <i class="fa fa-university" aria-hidden="true" style="color: red"></i><br>
-      <strong>₹ 14.77 Lakhs</strong> <br> Average Ticket <br> Size
+      <strong style="font-size: 20px">₹ 14.77 Lacs</strong> <br> Average Ticket <br> Size
     </div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
       <i class="fa fa-user" aria-hidden="true" style="color: red"></i><br>
-      <strong>350+</strong> <br> Customers  Served
+      <strong style="font-size: 20px">350+</strong> <br> Customers  Served Under PMAY Scheme
     </div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
       <i class="fa fa-users" aria-hidden="true" style="color: red"></i><br>
-      <strong>9000+</strong> <br> Housing Loan <br>Assistance
+      <strong style="font-size: 20px">9000+</strong> <br>Indian Families Housing Loan <br>Assistance
     </div>
   </div>
 </div>
@@ -106,7 +107,7 @@ title: Home
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
             <h3>
-              <a class="text-dark" href="#">Home Loans</a>
+              <a class="text-dark" href="#">Home Loan</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
@@ -120,7 +121,7 @@ title: Home
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
             <h3>
-              <a class="text-dark" href="#">Property Loans</a>
+              <a class="text-dark" href="#">Property Loan</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
@@ -134,7 +135,7 @@ title: Home
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
             <h3>
-              <a class="text-dark" href="#">Banking Services</a>
+              <a class="text-dark" href="#">Loan Against Property</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
@@ -148,7 +149,7 @@ title: Home
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
             <h3>
-              <a class="text-dark" href="#">E-Banking Services</a>
+              <a class="text-dark" href="#">Insurance</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
@@ -162,7 +163,7 @@ title: Home
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
             <h3>
-              <a class="text-dark" href="#">Travelling Services</a>
+              <a class="text-dark" href="#">Plot Purchase Loan</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
@@ -176,7 +177,7 @@ title: Home
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
             <h3>
-              <a class="text-dark" href="#">Income Tax Services</a>
+              <a class="text-dark" href="#">Renovation Loan</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
@@ -190,7 +191,7 @@ title: Home
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
             <h3>
-              <a class="text-dark" href="#">Insurance Services</a>
+              <a class="text-dark" href="#">Construction Loan</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
@@ -204,7 +205,7 @@ title: Home
         <div class="card slideanim flex-md-row mb-4 box-shadow h-md-250">
           <div class="card-body d-flex flex-column align-items-start">
             <h3>
-              <a class="text-dark" href="#">Printing Services</a>
+              <a class="text-dark" href="#">Personal Loan</a>
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
@@ -230,16 +231,16 @@ title: Home
     <!-- Nav tabs -->
     <ul class="nav nav-tabs nav-justified">
       <li class="nav-item">
-        <a class="nav-link active" data-toggle="tab" href="#banking">Banking Partners</a>
+        <a class="nav-link active" data-toggle="tab" href="#finance">Finance Partners</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" data-toggle="tab" href="#finance">Finance Partners</a>
+        <a class="nav-link" data-toggle="tab" href="#banking">Banking Partners</a>
       </li>
     </ul>
 
     <!-- Tab panes -->
     <div class="tab-content" style="padding-top: 3%">
-      <div class="tab-pane active container slideanim" id="banking">
+      <div class="tab-pane container slideanim" id="banking">
         <div class="row equal">
           {% for image in site.static_files %}
             {% if image.path contains 'public/images/banks/' %}
@@ -251,7 +252,7 @@ title: Home
         </div>
       </div>
 
-      <div class="tab-pane container" id="finance">
+      <div class="tab-pane active container slideanim" id="finance">
         {% assign image_files = site.public.images.finance | where: "image", true %}
         <div class="row equal">
           {% for image in site.static_files %}

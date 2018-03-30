@@ -19,7 +19,7 @@ permalink: /services/
                   <div class="card-body d-flex flex-column align-items-start">
                     <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
                     <h3 class="mb-0">
-                        Insurance Services
+                        Home Loan
                     </h3>
                     <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
                     <ul class="list-group" style="color: black">
@@ -39,7 +39,7 @@ permalink: /services/
                  <div class="card-body d-flex flex-column align-items-start">
                    <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
                    <h3 class="mb-0">
-                       Property Services
+                       Project Loan
                    </h3>
                    <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
                    <ul class="list-group" style="color: black">
@@ -64,7 +64,7 @@ permalink: /services/
               <div class="card-body d-flex flex-column align-items-start">
                 <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
                 <h3 class="mb-0">
-                    Banking Services
+                    Loan Against Property
                 </h3>
                 <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
                 <ul class="list-group" style="color: black">
@@ -84,7 +84,7 @@ permalink: /services/
              <div class="card-body d-flex flex-column align-items-start">
                <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
                <h3 class="mb-0">
-                   E-Banking Services
+                   Insurance
                </h3>
                <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
                <ul class="list-group" style="color: black">
@@ -108,7 +108,7 @@ permalink: /services/
               <div class="card-body d-flex flex-column align-items-start">
                 <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
                 <h3 class="mb-0">
-                    Income Tax Services
+                    Plot Purchase Loan
                 </h3>
                 <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
                 <ul class="list-group" style="color: black">
@@ -129,7 +129,7 @@ permalink: /services/
              <div class="card-body d-flex flex-column align-items-start">
                <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
                <h3 class="mb-0">
-                   Home Services
+                   Renovation Loan
                </h3>
                <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
                <ul class="list-group" style="color: black">
@@ -154,7 +154,7 @@ permalink: /services/
               <div class="card-body d-flex flex-column align-items-start">
                 <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
                 <h3 class="mb-0">
-                    Printing Services
+                    Construction Loan
                 </h3>
                 <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
                 <ul class="list-group" style="color: black">
@@ -173,7 +173,7 @@ permalink: /services/
              <div class="card-body d-flex flex-column align-items-start">
                <!-- <strong class="d-inline-block mb-2 text-primary">World</strong> -->
                <h3 class="mb-0">
-                   Travelling Services
+                   Personal Loan
                </h3>
                <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
                <ul class="list-group" style="color: black">

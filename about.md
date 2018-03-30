@@ -64,49 +64,83 @@ permalink: /about/
         </div> <!-- ./row -->
 
         <div class="row text-center section">
-            <div class="col-sm-3 slideanim">
-                <div>
-                  <img class="card-img-top rounded-circle" src="{{ "public/images/dharmendra_nivangune.jpeg" | relative_url }}" alt="Card image cap" style="height:45%">
-                  <div class="card-body">
-                    <h6 class="card-title">Dharmendra Nivangune</h6>
-                    <p class="card-text text-muted">Business Head</p>
-                    <a href="#" class="btn btn-primary">Links</a>
-                  </div>
+            <div class="col-sm-1"></div>
+            <div class="col-sm-2 slideanim">
+              <a href="#myModal" data-toggle="modal" data-target="#myModal">
+                <img class="card-img-top rounded-circle" src="{{ "public/images/dharmendra_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
+                <div class="card-body">
+                  <h5 class="card-title">Dharmendra Nivangune</h5>
+                  <p class="card-text text-muted">Chairman and Managing Director</p>
                 </div>
+              </a>
             </div> <!-- ./col -->
 
-            <div class="col-sm-3 slideanim">
-                <div>
-                  <img class="card-img-top rounded-circle" src="{{ "public/images/arjun_nivangune.jpeg" | relative_url }}" alt="Card image cap" style="height:45%">
-                  <div class="card-body">
-                    <h6 class="card-title">Arjun Nivangune</h6>
-                    <p class="card-text text-muted">Business Head</p>
-                    <a href="#" class="btn btn-primary">Links</a>
-                  </div>
+            <div class="col-sm-2 slideanim">
+              <a href="#myModal" data-toggle="modal" data-target="#myModal">
+                <img class="card-img-top rounded-circle" src="{{ "public/images/ashok_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
+                <div class="card-body">
+                  <h5 class="card-title">Ashok Nivangune</h5>
+                  <p class="card-text text-muted">Joint Managing Director</p>
                 </div>
+              </a>
             </div> <!-- ./col -->
 
-            <div class="col-sm-3 slideanim">
-                <div>
-                  <img class="card-img-top rounded-circle" src="{{ "public/images/vikas_polekar.jpeg" | relative_url }}" alt="Card image cap" style="height:45%">
-                  <div class="card-body">
-                    <h6 class="card-title">Vikas Polekar</h6>
-                    <p class="card-text text-muted">Business Head</p>
-                    <a href="#" class="btn btn-primary">Links</a>
-                  </div>
+            <div class="col-sm-2 slideanim">
+              <a href="#myModal" data-toggle="modal" data-target="#myModal">
+                <img class="card-img-top rounded-circle" src="{{ "public/images/arjun_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
+                <div class="card-body">
+                  <h5 class="card-title">Arjun Nivangune</h5>
+                  <p class="card-text text-muted">President</p>
                 </div>
+              </a>
             </div> <!-- ./col -->
 
-            <div class="col-sm-3 slideanim">
-                <div>
-                  <img class="card-img-top rounded-circle" src="{{ "public/images/ashok_nivangune.jpeg" | relative_url }}" alt="Card image cap" style="height:45%">
-                  <div class="card-body">
-                    <h6 class="card-title">Ashok Nivangune</h6>
-                    <p class="card-text text-muted">Business Head</p>
-                    <a href="#" class="btn btn-primary">Links</a>
-                  </div>
+            <div class="col-sm-2 slideanim">
+              <a href="#myModal" data-toggle="modal" data-target="#myModal">
+                <img class="card-img-top rounded-circle" src="{{ "public/images/ashok_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
+                <div class="card-body">
+                  <h5 class="card-title">Vikram Nivangune</h5>
+                  <p class="card-text text-muted">Vice President</p>
                 </div>
+              </a>
+            </div> <!-- ./col -->
+
+            <div class="col-sm-2 slideanim">
+              <a href="#myModal" data-toggle="modal" data-target="#myModal">
+                <img class="card-img-top rounded-circle" src="{{ "public/images/vikas_polekar.jpeg" | relative_url }}" alt="Card image cap" >
+                <div class="card-body">
+                  <h5 class="card-title">Vikas <br> Polekar</h5>
+                  <p class="card-text text-muted">Marketing and Business Head</p>
+                </div>
+              </a>
             </div> <!-- ./col -->
         </div> <!-- ./row -->
     </div> <!-- ./container -->
 </div> <!-- ./section -->
+
+
+<!-- The Modal -->
+<!-- Dharmendra Nivangune -->
+<div class="modal fade" id="myModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Modal Heading</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        Modal body..
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
