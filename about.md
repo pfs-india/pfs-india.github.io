@@ -66,7 +66,7 @@ permalink: /about/
         <div class="row text-center section">
             <div class="col-sm-1"></div>
             <div class="col-sm-2 slideanim">
-              <a href="#myModal" data-toggle="modal" data-target="#myModal">
+              <a href="#dharmendra" data-toggle="modal" data-target="#dharmendra">
                 <img class="card-img-top rounded-circle" src="{{ "public/images/dharmendra_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
                 <div class="card-body">
                   <h5 class="card-title">Dharmendra Nivangune</h5>
@@ -76,7 +76,7 @@ permalink: /about/
             </div> <!-- ./col -->
 
             <div class="col-sm-2 slideanim">
-              <a href="#myModal" data-toggle="modal" data-target="#myModal">
+              <a href="#ashok" data-toggle="modal" data-target="#ashok">
                 <img class="card-img-top rounded-circle" src="{{ "public/images/ashok_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
                 <div class="card-body">
                   <h5 class="card-title">Ashok Nivangune</h5>
@@ -86,7 +86,7 @@ permalink: /about/
             </div> <!-- ./col -->
 
             <div class="col-sm-2 slideanim">
-              <a href="#myModal" data-toggle="modal" data-target="#myModal">
+              <a href="#arjun" data-toggle="modal" data-target="#arjun">
                 <img class="card-img-top rounded-circle" src="{{ "public/images/arjun_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
                 <div class="card-body">
                   <h5 class="card-title">Arjun Nivangune</h5>
@@ -96,7 +96,7 @@ permalink: /about/
             </div> <!-- ./col -->
 
             <div class="col-sm-2 slideanim">
-              <a href="#myModal" data-toggle="modal" data-target="#myModal">
+              <a href="#vikram" data-toggle="modal" data-target="#vikram">
                 <img class="card-img-top rounded-circle" src="{{ "public/images/ashok_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
                 <div class="card-body">
                   <h5 class="card-title">Vikram Nivangune</h5>
@@ -106,7 +106,7 @@ permalink: /about/
             </div> <!-- ./col -->
 
             <div class="col-sm-2 slideanim">
-              <a href="#myModal" data-toggle="modal" data-target="#myModal">
+              <a href="#vikas" data-toggle="modal" data-target="#vikas">
                 <img class="card-img-top rounded-circle" src="{{ "public/images/vikas_polekar.jpeg" | relative_url }}" alt="Card image cap" >
                 <div class="card-body">
                   <h5 class="card-title">Vikas <br> Polekar</h5>
@@ -121,19 +121,200 @@ permalink: /about/
 
 <!-- The Modal -->
 <!-- Dharmendra Nivangune -->
-<div class="modal fade" id="myModal">
-  <div class="modal-dialog">
+<div class="modal fade" id="dharmendra">
+  <div class="modal-dialog modal-lg">
     <div class="modal-content">
 
       <!-- Modal Header -->
       <div class="modal-header">
-        <h4 class="modal-title">Modal Heading</h4>
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+          <img class="img-fluid rounded-circle" src="{{ "public/images/dharmendra_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
+        </div>
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12" style="padding-top: 5%">
+          <h4 class="modal-title">Dharmendra Nivangune</h4>
+          <h5 class="modal-title text-muted">Chairman and Managing Director</h5>
+        </div>
+        <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
       </div>
 
       <!-- Modal body -->
       <div class="modal-body">
-        Modal body..
+        <p>
+          Mr. Dharmendra Nivangune is the Chairman and Managing Director of Perfect Financial
+          Solution . (PFS). He is a Financial Consultant and started the business in 2011
+        </p>
+        <p>
+          Mr. Dharmendra Nivangune is a Commerce Graduate He is a veteran with over 9 years in Residential Home Finance business in India and United States having gained experience working for Banks and Housing Finance Companies. In his previous assignment as Sr. Sale Manager Shriram City Finance , he has been credited with spearheading the company’s growth during this tenure and making it a significant home finance company in the Indian mortgage space.
+        </p>
+        <p>
+          He has a rich experience in building infrastructure for achieving business goals by establishing branch network, distribution franchises and other marketing channels. He is a veteran team builder with an innate ability to recruit, train and manage effective teams on a national scale. Dharmendra believes in delivering a consistent growth record and delivery of bottom line performance. He has a proven track record of setting, managing and scaling up the business processes in diverse environments.
+        </p>
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- Ashok Nivangune -->
+<div class="modal fade" id="ashok">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+          <img class="img-fluid rounded-circle" src="{{ "public/images/ashok_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
+        </div>
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12" style="padding-top: 5%">
+          <h4 class="modal-title">Ashok Nivangune</h4>
+          <h5 class="modal-title text-muted">Joint Managing Director</h5>
+        </div>
+        <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        <p>
+          Mr. Ashok Nivangune is the Joint Managing Director of Perfect Financial Solution . (PFS). He is a Business Communication Adviser and Joint the business in 2013
+        </p>
+        <p>
+          Mr. Ashok Nivangune brings in rich experience in financial services industry having worked in companies like HDFC Recovery Section and IDEA Reconnection. As an independent management consultant, Mr. Ashok Nivnagune has worked with private equity firms to evaluate investments in the financial sector.Mr. Ashok Nivangune is Excellent Communication Skill with Costumers and Builders.
+        </p>
+        <p>
+          He Is Working as Joint Director Marketing Head in Perfect Financial Solution and Perfect Property Solution. Mr. Ashok Nivangune is an Graduate in Pune University Specialization In Banking and Finance.
+        </p>
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- Arjun Nivangune -->
+<div class="modal fade" id="arjun">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+          <img class="img-fluid rounded-circle" src="{{ "public/images/arjun_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
+        </div>
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12" style="padding-top: 5%">
+          <h4 class="modal-title">Arjun Nivangune</h4>
+          <h5 class="modal-title text-muted">President</h5>
+        </div>
+        <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        <p>
+          Mr. Arjun Nivangune is the President of Perfect Financial Solution . (PFS). He is a Building Fitness Server and Joint the company in 2014
+        </p>
+        <p>
+          Mr. Arjun Nivangune brings in rich experience in Construction industry having worked in companies like Swaraj Builders. As an independent Construcation consultant, Mr. Arjun Nivnagune has worked with private equity firms to evaluate investments in the financial sector. Mr.Arjun Nivangune is Excellent Communication Skill with Costumers and Builders.
+        </p>
+        <p>
+          He Is Working as Presidant and Branch Head of Ambegaon Branch in Perfect Financial Solution and Perfect Property Solution. Mr. Arjun Nivangune is an Graduate in Pune University &amp; Civil Deploma in Speclizaion in Civil Enginaring.
+        </p>
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- Vikram Nivangune -->
+<div class="modal fade" id="vikram">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+          <img class="img-fluid rounded-circle" src="{{ "public/images/vikram_nivangune.jpeg" | relative_url }}" alt="Card image cap" >
+        </div>
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12" style="padding-top: 5%">
+          <h4 class="modal-title">Vikram Nivangune</h4>
+          <h5 class="modal-title text-muted">Vice President</h5>
+        </div>
+        <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        <p>
+          MMr. Vikram Nivangune brings in rich experience in financial services industry having worked in companies like SBI Credit Card and Idea Sales Team . As an independent management consultant, Mr.Vikram Nivnagune has worked with private equity firms to evaluate investments in the financial sector.Mr. Vikram Nivangune is Excellent Communication Skill with Costumers.
+        </p>
+        <p>
+          He Is Working as Vice Prsidant and Branch Head of Warje Branch in Perfect Financial Solution and Perfect Property Solution.
+        </p>
+        <p>
+          Mr. Vikram Nivangune is an Graduate in Pune University Specialization In Banking and Finance.
+        </p>
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- Vikas Nivangune -->
+<div class="modal fade" id="vikas">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+          <img class="img-fluid rounded-circle" src="{{ "public/images/vikas_polekar.jpeg" | relative_url }}" alt="Card image cap" >
+        </div>
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12" style="padding-top: 5%">
+          <h4 class="modal-title">Vikas Polekar</h4>
+          <h5 class="modal-title text-muted">Marketing and Business Head</h5>
+        </div>
+        <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        <p>
+          Mr. Vikas Polekar brings in rich experience in financial services industry having worked in companies like Multisequer Finance base in Mumbai . As an independent Financial consultant, Mr.Vikas Polekar has worked with private equity firms to evaluate investments in the financial sector.Mr. Vikas Polekar is Excellent Communication Skill with Costumers.
+        </p>
+        <p>
+          He Is Working as Marketing Head and Branch Head of Ambegaon Branch in Perfect Financial Solution and Perfect Property Solution.
+        </p>
+        <p>
+          Mr. Vikas Polekar is an Graduate in Pune University Specialization In Computer Science.
+        </p>
       </div>
 
       <!-- Modal footer -->
