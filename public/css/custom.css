@@ -215,6 +215,10 @@ a:hover{
     padding-right: 5%;
 }
 
+#services .row{
+    margin-top: 15px;
+}
+
 /*Testimonials*/
 #myCarousel .carousel-control.right, .carousel-control.left {
     background-image: none;
@@ -247,4 +251,15 @@ a:hover{
 
 #myCarousel .carousel-item span {
     font-style: normal;
+}
+
+.img-thumbnail{
+    /*padding: 0;*/
+    border-radius: 0;
+    /*margin: 2px;*/
+}
+
+.thumbnail-caption{
+    margin-top: 15px;
+    padding: 10px;
 }

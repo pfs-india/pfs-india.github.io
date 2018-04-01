@@ -89,7 +89,7 @@ title: Home
     </div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="padding: 10px">
       <i class="fa fa-users" aria-hidden="true" style="color: red"></i><br>
-      <strong style="font-size: 20px">9000+</strong> <br>Indian Families Housing Loan <br>Assistance
+      <strong style="font-size: 20px">9000+</strong> <br>Indian Families Housing <br> Loan Assistance
     </div>
   </div>
 </div>
