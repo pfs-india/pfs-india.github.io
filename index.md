@@ -139,7 +139,7 @@ title: Home
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
-              We provide various Banking services like account opening, account linking, online money transfer, online bill payments and many more.
+              Get mortgage and private loans against property for any type - commercial or residential in India. Easy documentation, speedy approvals and nil foreclosure charges.
             </p>
           </div>
         </div>
@@ -153,7 +153,7 @@ title: Home
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
-              With this service you save your time by carrying out banking transactions at any place and at any time, from your home or office, all you need is internet access.
+              Compare & buy life insurance plans online to keep your family financially secure from unforeseen circumstances.Get health insurance,General Insurance,Automobile Insurance , Property Insurance,LIC Policy Services,Policy Claim Settlement.
               </p>
           </div>
         </div>
@@ -167,7 +167,7 @@ title: Home
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
-              We offer all services and products related to international and domestic travel. We are equipped to handle all types of travel such as holiday and business travel on individual or group based.
+              Acquire the land to turn your dream home into reality with perfect financial solution.We offers easy & hassle free Loan for Land Purchase. With us Plot Loan / Land Loan you can purchase a plot of Non Agricultural land available in major cities in India.
             </p>
           </div>
         </div>
@@ -181,7 +181,7 @@ title: Home
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
-              We provide all types of Income Tax Services such as generating PAN Card or Aadhar Card, Income Tax Returns and more..
+              Upgrade your existing home to a contemporary design and a more comfortable living space.With perfect financial solutiion you can get renovation loan to make your home more beautiful.
             </p>
           </div>
         </div>
@@ -195,7 +195,7 @@ title: Home
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
-              Get all types of insurances like Health Insurance, Life Insurance, Property Insurance and many more all at one place.
+              Construct your own home on the plot of land you own & We will help you finance it.Get construction loan for your home at a reasonable interest rate from Perfect financial solution with easy EMI option to build your dream home.
             </p>
           </div>
         </div>
@@ -209,7 +209,7 @@ title: Home
             </h3>
             <hr style="width: 50px; height: 1px; background-color: #7378df;" align="left">
             <p class="card-text text-muted mb-auto">
-              We provide Flex designing, <br> Website designing, <br> Logo designing, <br> and DTP services as well.
+              Apply for personal loan at low interest rates. Get personal loan with minimum documents and avail maximum flexibility. Complete all your dreams with simple and easy Personal Loan with us.
             </p>
           </div>
         </div>
@@ -287,5 +287,64 @@ title: Home
         <h5>Disbarment Process Steps</h5>
       </div> <!-- ./col -->
     </div> <!-- ./row -->
+  </div> <!-- ./container -->
+</div>
+
+<div class="section" style="background-color: lightgray">
+  <div class="container">
+    <div class="row">
+      <div class="col text-center section-title">
+        <h1 class="animated animated-zoomIn">What our customers say</h1>
+        <hr style="width: 50px; height: 1px; background-color: #7378df;">
+      </div> <!-- ./col -->
+    </div> <!-- ./row -->
+
+    <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        <div class="carousel-item active">
+          <img src="{{ "public/images/satish_kadam.jpeg" | relative_url }}" class="img-fluid" style="height: 30%; width: 30%">
+          <h4>Thank you for all your patient assistance during the state of confusion and helping us bundle everything together. It was a very time consuming task and you helped put us at ease that day. We appreciate also that you used your experience and expertise to help save money on those three policies.<br>
+          <span style="font-style:normal;">- Satish Kadam</span></h4>
+        </div>
+        <div class="carousel-item">
+          <img src="{{ "public/images/purashottam_kapse.jpeg" | relative_url }}" class="img-fluid" style="height: 30%; width: 30%">
+          <h4>Excellent, prompt service! The kind of service that has the customer first in mind!<br>
+          <span style="font-style:normal;">- Purashottam Kapse</span></h4>
+        </div>
+        <div class="carousel-item">
+          <img src="{{ "public/images/khush_housing_finance.jpeg" | relative_url }}" class="img-fluid" style="height: 30%; width: 30%">
+          <h4>Perfect Financial Solution has provided years of service for both our personal and business needs. With a wide range of products and services, and a highly knowledgeable workforce, they have the tools necessary to meet the needs of any customer. We are proud of our continuing business relationship with them, and look forward to many more years of working together.<br>
+          <span style="font-style:normal;">- Team Khush Housing Finance</span></h4>
+        </div>
+        <div class="carousel-item">
+          <img src="{{ "public/images/tushar_khilare.jpeg" | relative_url }}" class="img-fluid" style="height: 30%; width: 30%">
+          <h4>Very user-friendly service and quick response time. The agent on the phone stayed with me until my application was complete. This expedited the process and gave me confidence.<br>
+          <span style="font-style:normal;">- Tushar Khilare</span></h4>
+        </div>
+        <div class="carousel-item">
+          <img src="{{ "public/images/rahul_chorghe.jpeg" | relative_url }}" class="img-fluid" style="height: 30%; width: 30%">
+          <h4>The process was smooth and I received my funds the very next business day. I would highly recommend Perfect Financial Solutions to anyone looking for financial assistance.<br>
+          <span style="font-style:normal;">- Rahul Chorghe</span></h4>
+        </div>
+      </div>
+
+      <!-- Left and right controls -->
+      <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+      </a>
+      <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+      </a>
+    </div>
   </div> <!-- ./container -->
 </div>
